@@ -1,9 +1,12 @@
 # Application of Python + API for weather analysis and vacation destination selection
 
+- See the **output** and **figures** folder for the results of the analysis
+- See the **code** folder for the code to perform the following analysis
+
 ## Part I - Weather analysis
 
-- Create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. 
-- Used Python library [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api)
+- Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. 
+- Used Python library [simple Python library](https://pypi.python.org/pypi/citipy) and the [OpenWeatherMap API](https://openweathermap.org/api)
 
 - Created a series of scatter plots to examine the following relationships and provided interpretation of each.
 
@@ -11,7 +14,6 @@
   * Humidity (%) vs. Latitude
   * Cloudiness (%) vs. Latitude
   * Wind Speed (mph) vs. Latitude
-
 
 - Performed a series of linear regression based on Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude) and provided interpretation of each result.
 
