@@ -1,7 +1,7 @@
 # Application of Python + API for weather analysis and vacation destination selection
 
 - See the `output` and `figures` folders for the results of the analysis
-- See the `code` folder for the code to perform the following analysis
+- See the `code` folder for the code to perform the following analysis (broken into two parts)
 
 ## Part I - Weather analysis
 
